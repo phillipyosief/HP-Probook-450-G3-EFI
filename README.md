@@ -65,6 +65,7 @@ macOS Catalina 10.15.7
  - Disable WiFi button
  - Fn + F4 / Fn + F10
  - DRM Content
+ - Bluetooth Headset (AirPods) Audio is lagging
 
 ## Not tested
  - Audio port
