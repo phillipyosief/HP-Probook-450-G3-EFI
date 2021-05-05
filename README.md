@@ -20,7 +20,7 @@ macOS Catalina 10.15.7
 #### Secure Boot Configuration
  - Disable Legacy-Support and disable Secure Boot
 #### System Options
- - Virtualization Technology (VTx) = on
+ - Virtualization Technology (VTx) = ON
 #### Options for integrated devices
  - Graphic memory = 512MB
  - Boost Converter = ON
