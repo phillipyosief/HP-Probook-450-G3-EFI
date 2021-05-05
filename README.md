@@ -1,13 +1,30 @@
 # HP Probook 450 G3 EFI
 Hackintosh EFI based on the EFI from FREEWING-JP
 
-Specs:
+#### Specs:
  - Intel Core i3 (Skylake)
  - Intel HD Graphics 520
  - 4GB DDR4 RAM
  - SanDisk 1TB SSD
+ - 
 
 macOS Catalina 10.15.7
+
+## BIOS Setup
+#### Bootoptions
+ - Fast boot = ON
+#### Secure Boot Configuration
+ - Disable Legacy-Support and disable Secure Boot
+#### System Options
+ - Virtualization Technology (VTx) = on
+#### Options for integrated devices
+ - Graphic memory = 512MB
+ - Boost Converter = ON
+#### Power Managment Options 
+ - Runtime-Batterymanagment = ON
+ - Advanced Energiestatus-Settings = ON
+ - Wake when Lid is Opened = ON
+ - Power Control = ON
 
 ## What works
 - iMessage
