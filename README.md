@@ -1,14 +1,18 @@
 # HP Probook 450 G3 EFI
 Hackintosh EFI based on the EFI from FREEWING-JP
 
+macOS Catalina 10.15.7
+
 #### Specs:
  - Intel Core i3 (Skylake)
  - Intel HD Graphics 520
  - 4GB DDR4 RAM
  - SanDisk 1TB SSD
- - 
+ - Realtek RTL8168H/8111H
 
-macOS Catalina 10.15.7
+#### SMBIOS
+ - MacbookPro13,1
+ - Don't forget to change SMBIOS for working iCloud services
 
 ## BIOS Setup
 #### Bootoptions
