@@ -1,6 +1,7 @@
 # HP Probook 450 G3 EFI
-Hackintosh EFI based on the EFI from FREEWING-JP
+Hackintosh EFI based on the EFI from [FREEWING-JP](https://github.com/FREEWING-JP)
 
+[OpenCore 0.6.6](https://github.com/acidanthera/opencorepkg]
 macOS Catalina 10.15.7
 
 #### Specs:
@@ -9,6 +10,7 @@ macOS Catalina 10.15.7
  - 4GB DDR4 RAM
  - SanDisk 1TB SSD
  - Realtek RTL8168H/8111H
+ - [View more](https://support.hp.com/us-en/document/c04850296/?openCLC=true)
 
 #### SMBIOS
  - MacbookPro13,1
@@ -50,6 +52,9 @@ macOS Catalina 10.15.7
 - CD-Drive + burn
 - Hand-off
 - UEFI Booting
+- Audio Volume Control (Fn + F8 / F9)
+- Brightness Control (Fn + F5 / F6)
+- Sleep Button (Fn + F1)
 
 ## What not works
  - Battery
@@ -58,6 +63,7 @@ macOS Catalina 10.15.7
  - Trackpad gestures
  - Mute speaker button
  - Disable WiFi button
+ - Fn + F4 / Fn + F10
 
 ## Not tested
  - Audio port
@@ -69,3 +75,4 @@ macOS Catalina 10.15.7
  - [Dortania OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide)
  - [null-x/HP-ProBook-450-G3-Hackintosh](https://github.com/null-x/HP-ProBook-450-G3-Hackintosh)
  - [FREEWING-JP/OpenCore_Intel_Skylake_EFI](https://github.com/FREEWING-JP/OpenCore_Intel_Skylake_EFI)
+ - [r/hackintosh](https://reddit.com/r/hackintosh)
