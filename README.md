@@ -1,7 +1,7 @@
 # HP Probook 450 G3 EFI
 Hackintosh EFI based on the EFI from [FREEWING-JP](https://github.com/FREEWING-JP)
 
-[OpenCore 0.6.6](https://github.com/acidanthera/opencorepkg]
+[OpenCore 0.6.6](https://github.com/acidanthera/opencorepkg)
 macOS Catalina 10.15.7
 
 #### Specs:
