@@ -64,6 +64,7 @@ macOS Catalina 10.15.7
  - Mute speaker button
  - Disable WiFi button
  - Fn + F4 / Fn + F10
+ - DRM Content
 
 ## Not tested
  - Audio port
